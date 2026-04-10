@@ -1,9 +1,9 @@
 {
-  "version": "0.3.2",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.3.2/QuanLyHangHoa-Setup-0.3.2.exe",
+  "version": "0.3.3",
+  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.3.3/QuanLyHangHoa-Setup-0.3.3.exe",
   "notes": [
-    "Fix UI, adding comma to input number if it has too many 0",
-    "Adding log export for bug fix"
+    "Fix bug để auto update (mong là được)",
+    ":3"
   ],
   "min_required_version": "0.3.0"
 }
