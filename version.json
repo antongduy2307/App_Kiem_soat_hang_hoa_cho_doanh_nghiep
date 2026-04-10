@@ -1,9 +1,9 @@
 {
   "version": "0.3.0",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/new_release/QuanLyHangHoa-Setup-0.3.0.exe",
+  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/update-release/QuanLyHangHoa-Setup-0.3.1.exe",
   "notes": [
     "Fix UI",
-    "Thêm update system"
+    "Thêm timestamp cho hóa đơn, làm nó có thể thay đổi được"
   ],
   "min_required_version": "0.3.0"
 }
