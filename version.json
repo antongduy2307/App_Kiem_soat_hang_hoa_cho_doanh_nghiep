@@ -1,11 +1,8 @@
 {
-  "version": "0.4.2",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.2/QuanLyHangHoa-Setup-0.4.2.exe",
+  "version": "0.4.3",
+  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.3/QuanLyHangHoa-Setup-0.4.3.exe",
   "notes": [
-    "Make change to UI theme and button",
-    "Major change in UI in Customer tab",
-    "Fixing update issue",
-    ":3"
+    "Fix bug : Current version always be 0.3.0 instead of real current version"
   ],
-  "min_required_version": "0.3.0"
+  "min_required_version": "0.4.0"
 }
