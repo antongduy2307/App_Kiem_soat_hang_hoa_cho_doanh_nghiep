@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.1/QuanLyHangHoa-Setup-0.4.1.exe",
+  "version": "0.4.2",
+  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.2/QuanLyHangHoa-Setup-0.4.2.exe",
   "notes": [
     "Make change to UI theme and button",
     "Major change in UI in Customer tab",
