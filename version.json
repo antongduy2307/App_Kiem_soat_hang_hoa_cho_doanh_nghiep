@@ -1,8 +1,8 @@
 {
-  "version": "0.4.7",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.7/QuanLyHangHoa-Setup-0.4.7.exe",
+  "version": "0.4.8",
+  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.8/QuanLyHangHoa-Setup-0.4.8.exe",
   "notes": [
-    "Fix an error where debt bills are placed incorrectly"
+    "Fix bug ?????????"
   ],
   "min_required_version": "0.4.0"
 }
