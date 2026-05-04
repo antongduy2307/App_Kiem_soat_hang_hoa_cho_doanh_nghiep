@@ -1,8 +1,8 @@
 {
-  "version": "0.4.12",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.4.12/QuanLyHangHoa-Setup-0.4.12.exe",
+  "version": "0.5.1",
+  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.5.1/QuanLyHangHoa-Setup-0.5.1.exe",
   "notes": [
-    "May co biet fix bug cho bo khong ?"
+    "Adding ordering feature"
   ],
-  "min_required_version": "0.4.0"
+  "min_required_version": "0.4.8"
 }
