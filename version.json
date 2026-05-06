@@ -1,8 +1,8 @@
 {
-  "version": "0.5.3",
+  "version": "0.6.0",
   "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.6.0/QuanLyHangHoa-Setup-0.6.0.exe",
   "notes": [
-    "Adding ordering feature"
+    "Adding employees attendance"
   ],
   "min_required_version": "0.5.0"
 }
