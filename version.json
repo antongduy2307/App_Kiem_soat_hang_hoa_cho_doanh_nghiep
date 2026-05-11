@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
-  "installer_url": "https://github.com/antongduy2307/App_Kiem_soat_hang_hoa_cho_doanh_nghiep/releases/download/v0.7.2/QuanLyHangHoa-Setup-v0.7.2.exee",
+  "version": "0.7.4",
+  "installer_url": "https://github.com/antongduy2307/QuanLyHangHoa/releases/download/v0.7.4/QuanLyHangHoa-Setup-v0.7.4.exe",
   "notes": [
-    "Adding 30 days report to attendence"
+    "Changing update method"
   ],
   "min_required_version": "0.6.0"
 }
